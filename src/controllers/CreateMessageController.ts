@@ -20,4 +20,4 @@ class CreateMessageController {
   }
 }
 
-export { CreateMessageController };
+export default CreateMessageController;

@@ -17,4 +17,4 @@ class AuthenticateUserController {
   }
 }
 
-export { AuthenticateUserController };
+export default AuthenticateUserController;
